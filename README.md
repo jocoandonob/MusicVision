@@ -1,3 +1,5 @@
+![MusicVision Thumbnail](thumbnail.png)
+
 # Music Analysis Application
 
 This application allows users to upload audio files and receive detailed analysis of the audio, including:
